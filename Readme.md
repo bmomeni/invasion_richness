@@ -15,5 +15,5 @@ Simulated_results  -- the results of simulations
 Analysis_and_plotting  -- the analysis and plotting of simulated results
 ```
 
-Note that I didn't include the analysis and plotting for figure 3 and 4, which should be exactly the same as figure 1. 
+Note that I didn't include the analysis and plotting for figure 3 and 4, which should be exactly the same as figure 1. Also, the figure 5 analyzes the same simulated results as figure 1. 
 
