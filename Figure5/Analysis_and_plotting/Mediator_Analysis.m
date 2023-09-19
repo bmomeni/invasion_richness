@@ -6,7 +6,7 @@ tStart = tic;
 % Load file
 
 
-infile = '/Users/yuzhu/Documents/Research/Momeni/0215/Testing/final_check/V3b_Dp_ExMT4C_ABE_fp10_fpI50_CSD1e+04_DilTh1e+07_ExtTh0.1_Ksat10000_ri20_riI20_r0m10_r0Inv15_bt10_at50_Nc20_Nm10_qp30_qc30_qpi30_qci30_Nr20_Ns10000_rndseed6932.mat';
+infile = '_Dp_ExMT4C_ABE_fp10_fpI50_CSD1e+04_DilTh1e+07_ExtTh0.1_Ksat10000_ri20_riI20_r0m10_r0Inv15_bt10_at50_Nc20_Nm10_qp30_qc30_qpi30_qci30_Nr20_Ns10000_rndseed6932.mat';
 load(infile)
 
 numMediator = zeros(3,nSample);
