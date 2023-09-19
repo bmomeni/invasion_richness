@@ -7,7 +7,7 @@ The functions folder includes all functions required for simulations. Make sure 
 
 ### Figures
 
-The folder for each figure has three sub-folder 
+The folder for each figure has three sub-folders:
 
 ```
 Simulations  -- the codes used for running the simulation
