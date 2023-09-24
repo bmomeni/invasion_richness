@@ -6,7 +6,7 @@ t = tiledlayout(2,3);
 
 % Load file
 
-infile = 'IvsD_BCij=0.2=Dp_ExMT4C_ABE_fp10_fpI10_CSD1e+04_DilTh1e+10_ExtTh0.1_Ksat10000_ri20_riI20_r0m10_r0Inv15_bt10_at100_Nc70_Nm20_qp80_qc80_qpi70_qci70_Nr10_Ns1000_rndseed6932.mat';
+infile = 'IvsD_BCij=0.2_Dp_ExMT4C_ABE_fp10_fpI10_CSD1e+04_DilTh1e+10_ExtTh0.1_Ksat10000_ri20_riI20_r0m10_r0Inv15_bt10_at100_Nc70_Nm20_qp80_qc80_qpi70_qci70_Nr10_Ns1000_rndseed6932.mat';
 load(infile)
 nSamples = 1000;
 CorA = zeros(2,nSamples);
